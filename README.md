@@ -38,6 +38,38 @@ Statistics.
 
 Lien : https://research.aimultiple.com/data-science-tools/
 
+Devenir data scientist est difficile. Dans toute tâche difficile, la concentration est essentielle. En tant que data scientist, Python devrait probablement être le premier outil à maîtriser.
+
+MOT-CLÉ	FRÉQUENCE (NOMBRE DE FOIS OÙ L'OUTIL EST MENTIONNÉ SUR UN EXEMPLE DE LISTE D'EMPLOIS DE DATA SCIENTIST)
+R	30
+SQL	27
+Python	22
+Hadoop	19
+SAS	18
+Java	15
+Ruche	13
+Matlab	12
+Cochon	11
+C++	9
+Rubis	9
+SPSS	9
+perle	8
+Tableau	8
+Exceller	6
+
+Enfin, comme la plupart des data scientists qui utilisent à la fois R et Python, recommandent fortement Python, comme indiqué ci-dessous. Nous nous attendons à ce que la popularité de Python continue de croître.
+
+
+
+
+4/ Quelles sont les compétences nécessaires au métier de Data Scientist ?
+
+Lien : https://www.cartelis.com/blog/data-scientist-competences/
+
+Vous souhaitez devenir Data Scientist ? Disons-le tout de suite, c’est un métier nécessitant des compétences très solides dans des domaines assez variés : programmation, statistiques, machine learning, génie logiciel, Data Visualization, etc.
+
+
+
 
 
 
