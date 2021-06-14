@@ -1,5 +1,7 @@
 # Science-des-donn-es
 
+Cours : https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-lm-Intro-Stat_SD.pdf
+
 1/ Pourquoi la science des données ? 
 
 La science des données parce que les données sont la nouvelles huile, Cette phrase est soulignée sur la base du fait que presque tout et tout ce que nous faisons maintenant génère des données, à la fois de manière structurée et non structurée.
