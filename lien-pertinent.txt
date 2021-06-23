@@ -1,0 +1,11 @@
+Classification automatique sous R - on y trouve le code sur fromage
+
+Lien : https://eric.univ-lyon2.fr/~ricco/cours/didacticiels/R/cah_kmeans_avec_r.pdf
+
+Marie Chavent
+
+Lien : http://www.math.u-bordeaux.fr/~mchave100p/teaching/
+
+Autre lien 
+
+Lien : https://eric.univ-lyon2.fr/~ricco/cours/
